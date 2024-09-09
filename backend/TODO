@@ -1,0 +1,24 @@
+
+Todo - Payments:
+  ☐ Add integration with stripe - Done
+  ☐ Save card information so that it can easily be charged. - Done
+  ☐ Add ability to charge and manage credits in the accounts. - Done
+
+Todo - Dashboard:
+  ☐ Pull information on the registered numbers and show them on the dashboard. - Done
+  ☐ Add ability to send sms and text message. For calls and sms, use the credits in the account. - next phase
+    ☐ Front end for triggering call and SMS
+    ☐ Front end for logging and reviewing what SMSs are sent. 
+    ☐ Front end for logging and reviewing what Calls are sent. 
+  
+Todo - Prompts:
+  ☐ Create prompt for test call when user information is added.  - done
+
+Todo - Embeddable widget:
+  ☐ Create embeddable widget that can have company, description and phone number to do a test call. 
+
+Todo - Sign up process:
+  ☐ User should have simple process to add company overview, description and email. Create onboarding flow so that - done
+  ☐ With user information a prompt should be generated with progress shown. - done
+  ☐ Guide user to buy a number and get started. Number buying process should be search number, select number and which use case it's for and buy it. - done
+  

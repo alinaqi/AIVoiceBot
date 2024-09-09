@@ -1,0 +1,5 @@
+import os
+
+REDIS_HOST = os.getenv('REDIS_HOST', 'REDIS_HOST')
+REDIS_PORT = int(os.getenv('REDIS_PORT', <YOUR_REDIS_PORT>))
+REDIS_PASSWORD = os.getenv('REDIS_PASSWORD', 'REDIS_PASSWOD')
